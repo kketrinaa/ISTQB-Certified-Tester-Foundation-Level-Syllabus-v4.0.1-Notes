@@ -101,20 +101,20 @@ While being generic, the following skills are particularly relevant for testers:
 * Domain knowledge (to be able to understand and to communicate with end users/business representatives)
 
 ### FL-1.5.2 (K1) Recall the advantages of the whole team approach
-In _**the whole team approach**_ any team member with the necessary knowledge and skills can perform any task, and everyone is responsible for quality. The team members share the same workspace (physical or virtual), as co-location facilitates communication and interaction.
+In the whole team approach any team member with the necessary knowledge and skills can perform any task, and everyone is responsible for quality. The team members share the same workspace (physical or virtual), as co-location facilitates communication and interaction.
 
 The whole team approach improves: 
-* _Team dynamics_,
-* Enhances _communication_ and _collaboration_ within the team,
-* _Creates synergy_ by allowing the various skill sets within the team to be leveraged for the benefit of the project.
+* Team dynamics,
+* Enhances communication and collaboration,
+* Creates synergy.
 
 ### FL-1.5.3 (K2) Distinguish the benefits and drawbacks of independence of testing
 Work products can be tested by their author (no independence), by the author's peers from the same team (some independence), by testers from outside the author's team but within the organization (high independence), or by testers from outside the organization (very high independence).
 
 **Benefits of independent testing:**
-* Independent testers are more likely to _uncover different defects_ due to their different perspectives and cognitive biases.
-* They can _challenge assumptions_ made during development and _provide an objective view_ of the system.
-* Multiple levels of independence (e.g., developers testing components, testers testing the system) _can improve overall test effectiveness_.
+* Independent testers are more likely to uncover different defects due to their different perspectives and cognitive biases.
+* They can challenge assumptions made during development and provide an objective view of the system.
+* Multiple levels of independence (e.g., developers testing components, testers testing the system) can improve overall test effectiveness.
 
 **Drawbacks of independent testing:**
 * Independent testers may become isolated from the development team, reducing collaboration and creating communication issues.
