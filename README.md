@@ -14,13 +14,27 @@ The typical test objectives are:
 * Building confidence in the quality of the test object
 * Validating whether the test object is complete and works as expected by the stakeholders
 ### FL-1.1.2 (K2) Differentiate testing from debugging
+Testing can show failures which are caused by defects in the software. Debugging is a defelopment activity which finds, analyses and fixes defects.
 
 <br>
 
 ### 1.2 Why is Testing Necessary?
 ### FL-1.2.1 (K2) Exemplify why testing is necessary
+**1. Testing helps detect defects early and cost-effectively.** By identifying issues in requirements, design, or code, testing reduces the overall cost of fixing defects and improves the quality of the final product.
+
+**2. Testing provides insight into the quality of the system at different stages of development.** This information supports management decisions, such as whether to proceed to the next phase or to release the product.
+
+**3. Testing represents the users' perspective.** Testers help ensure that user needs are considered throughout development, especially when it’s not feasible to include real users directly in the process due to the high costs and lack of availability of suitable users.
+
+**4. Testing helps meet contractual, legal, or regulatory requirements.**
 ### FL-1.2.2 (K1) Recall the relation between testing and quality assurance
+**Testing** is a product-oriented, *corrective* activity that focuses on finding defects and verifying software quality. **Quality Assurance (QA)** is a process-oriented, *preventive* activity that focuses on improving and following development and testing processes. QA applies to both the development and testing processes, and is the responsibility of everyoneon a project. In testing test results are used to fix defects, while in QA to improve processes.
 ### FL-1.2.3 (K2) Distinguish between root cause, error, defect, and failure
+* **Root Cause:** A source of a defect. If it's removed, the defect happens less often or disappears.
+* **Error (Mistake):** A human action that results in a defect.
+* **Defect (Bug, Fault):** A flaw in a work product that makes it not meet requirements or affects how it's supposed to function.
+* **Failure:** System event triggered by a specific defect (not all defects may always cause failure).
+
 <br>
 
 ### 1.3 Testing Principles
