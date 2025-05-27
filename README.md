@@ -1,1 +1,1 @@
-# ISTQB-Certified-Tester-Foundation-Level-Syllabus-v4.0.1-Notes
+# ISTQB Certified Tester Foundation Level Syllabus (v4.0.1) Notes
