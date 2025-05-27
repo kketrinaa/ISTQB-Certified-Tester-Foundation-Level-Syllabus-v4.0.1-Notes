@@ -13,6 +13,7 @@ The typical test objectives are:
 * Providing information to stakeholders to allow them to make informed decisions
 * Building confidence in the quality of the test object
 * Validating whether the test object is complete and works as expected by the stakeholders
+
 ### FL-1.1.2 (K2) Differentiate testing from debugging
 Testing can show failures which are caused by defects in the software. Debugging is a defelopment activity which finds, analyses and fixes defects.
 
@@ -25,11 +26,12 @@ Testing can show failures which are caused by defects in the software. Debugging
 
 ### FL-1.2.2 (K1) Recall the relation between testing and quality assurance
 _**Testing**_ is a product-oriented, *corrective* activity that focuses on finding defects and verifying software quality. _**Quality Assurance (QA)**_ is a process-oriented, *preventive* activity that focuses on improving and following development and testing processes. QA applies to both the development and testing processes, and is the responsibility of everyoneon a project. In testing test results are used to fix defects, while in QA to improve processes.
+
 ### FL-1.2.3 (K2) Distinguish between root cause, error, defect, and failure
-* _**Root Cause:**_ A source of a defect. If it's removed, the defect happens less often or disappears.
-* _**Error (Mistake):**_ A human action that results in a defect.
-* _**Defect (Bug, Fault):**_ A flaw in a work product that makes it not meet requirements or affects how it's supposed to function.
-* _**Failure:**_ System event triggered by a specific defect (not all defects may always cause failure).
+* **Root Cause:** A source of a defect. If it's removed, the defect happens less often or disappears.
+* **Error (Mistake):** A human action that results in a defect.
+* **Defect (Bug, Fault):** A flaw in a work product that makes it not meet requirements or affects how it's supposed to function.
+* **Failure:** System event triggered by a specific defect (not all defects may always cause failure).
 
 ### 1.3 Testing Principles
 ### FL-1.3.1 (K2) Explain the seven testing principles
@@ -99,17 +101,20 @@ While being generic, the following skills are particularly relevant for testers:
 * Domain knowledge (to be able to understand and to communicate with end users/business representatives)
 
 ### FL-1.5.2 (K1) Recall the advantages of the whole team approach
-In _the whole team approach_ any team member with the necessary knowledge and skills can perform any task, and everyone is responsible for quality. The team members share the same workspace (physical or virtual), as co-location facilitates communication and interaction.
+In _**the whole team approach**_ any team member with the necessary knowledge and skills can perform any task, and everyone is responsible for quality. The team members share the same workspace (physical or virtual), as co-location facilitates communication and interaction.
 
-The whole team approach improves: team dynamics, enhances communication and collaboration within the team, and creates synergy by allowing the various skill sets within the team to be leveraged for the benefit of the project.
+The whole team approach improves: 
+* _Team dynamics_,
+* Enhances _communication_ and _collaboration_ within the team,
+* _Creates synergy_ by allowing the various skill sets within the team to be leveraged for the benefit of the project.
 
 ### FL-1.5.3 (K2) Distinguish the benefits and drawbacks of independence of testing
 Work products can be tested by their author (no independence), by the author's peers from the same team (some independence), by testers from outside the author's team but within the organization (high independence), or by testers from outside the organization (very high independence).
 
 _**Benefits of independent testing:**_
-* Independent testers are more likely to uncover different defects due to their different perspectives and cognitive biases.
-* They can challenge assumptions made during development and provide an objective view of the system.
-* Multiple levels of independence (e.g., developers testing components, testers testing the system) can improve overall test effectiveness.
+* Independent testers are more likely to _uncover different defects_ due to their different perspectives and cognitive biases.
+* They can _challenge assumptions_ made during development and _provide an objective view_ of the system.
+* Multiple levels of independence (e.g., developers testing components, testers testing the system) _can improve overall test effectiveness_.
 
 _**Drawbacks of independent testing:**_
 * Independent testers may become isolated from the development team, reducing collaboration and creating communication issues.
