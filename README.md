@@ -1,7 +1,6 @@
 # ISTQB Certified Tester Foundation Level Syllabus (v4.0.1) Notes
 
 ## 1. Fundamentals of Testing
-### FL-1.1.1 (K1) Identify typical test objectives
 ### 1.1 What is Testing?
 ### FL-1.1.1 (K1) Identify typical test objectives
 ### FL-1.1.2 (K2) Differentiate testing from debugging
