@@ -16,8 +16,6 @@ The typical test objectives are:
 ### FL-1.1.2 (K2) Differentiate testing from debugging
 Testing can show failures which are caused by defects in the software. Debugging is a defelopment activity which finds, analyses and fixes defects.
 
-<br>
-
 ### 1.2 Why is Testing Necessary?
 ### FL-1.2.1 (K2) Exemplify why testing is necessary
 **1. Testing helps detect defects early and cost-effectively.** By identifying issues in requirements, design, or code, testing reduces the overall cost of fixing defects and improves the quality of the final product.
@@ -35,14 +33,26 @@ Testing can show failures which are caused by defects in the software. Debugging
 * **Defect (Bug, Fault):** A flaw in a work product that makes it not meet requirements or affects how it's supposed to function.
 * **Failure:** System event triggered by a specific defect (not all defects may always cause failure).
 
-<br>
-
 ### 1.3 Testing Principles
 ### FL-1.3.1 (K2) Explain the seven testing principles
-<br>
+**1.	Testing shows the presence, not the absence of defects.** <br>
+**2.	Exhaustive testing is impossible** – testing everything in feasible.<br>
+**3.	Early testing saves time and money** – defects that are removed early in the process will not cause subsequent defects in derived work products. The cost of quality will be reduced since fewer failures will occur later in the SDLC.<br>
+**4.	Defects cluster together** – a small number of system components usually contain most of the defects discovered or are responsible for most of the operational failures. This phenomenon is an illustration of the Pareto principle.<br>
+**5.	Tests wear out** – if the same tests are repeated many times, they become increasingly ineffective in detecting new defects. To overcome this effect, existing tests and test data may need to be modified, and new tests may need to be written.<br>
+**6.	Testing is context dependent** – there is no single universally applicable approach to testing. Testing is done differently in different contexts.<br>
+**7.	Absence-of-defects fallacy** – thoroughly testing all the specified requirements and fixing all the defects found could still produce a system that does not fulfil the users’ needs and expectations.<br>
 
 ### 1.4 Test Activities, Testware and Test Roles
 ### FL-1.4.1 (K2) Explain the different test activities and related tasks
+* **Test planning.** Defines test objectives and selects the test approach based on the context and constraints.
+* **Test monitoring and test control.** Monitors test progress and takes corrective actions to stay on track.
+* **Test Analysis.** Identifies testable features and test conditions from the test basis; answers what to test.
+* **Test Design.** Transforms test conditions into test cases and other testware, defines test data, and designs the test environment; answers how to test.
+* **Test Implementation** – prepares and organizes the testware and sets up the test environment for execution.
+* **Test Execution** – runs the tests, logs results, compares actual vs. expected outcomes, and analyzes anomalies.
+* **Test Completion** – finalizes testing activities, reports remaining issues, archives useful assets, and captures lessons learned.
+
 ### FL-1.4.2 (K2) Explain the impact of context on the test process
 ### FL-1.4.3 (K2) Differentiate the testware that supports the test activities
 ### FL-1.4.4 (K2) Explain the value of maintaining traceability
