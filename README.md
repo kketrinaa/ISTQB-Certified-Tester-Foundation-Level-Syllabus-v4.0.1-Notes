@@ -18,13 +18,13 @@ Testing can show failures which are caused by defects in the software. Debugging
 
 ### 1.2 Why is Testing Necessary?
 ### FL-1.2.1 (K2) Exemplify why testing is necessary
-**1. Testing helps detect defects early and cost-effectively.** By identifying issues in requirements, design, or code, testing reduces the overall cost of fixing defects and improves the quality of the final product.
+* **Testing helps detect defects early and cost-effectively.** By identifying issues in requirements, design, or code, testing reduces the overall cost of fixing defects and improves the quality of the final product.
 
-**2. Testing provides insight into the quality of the system at different stages of development.** This information supports management decisions, such as whether to proceed to the next phase or to release the product.
+* **Testing provides insight into the quality of the system at different stages of development.** This information supports management decisions, such as whether to proceed to the next phase or to release the product.
 
-**3. Testing represents the users' perspective.** Testers help ensure that user needs are considered throughout development, especially when it’s not feasible to include real users directly in the process due to the high costs and lack of availability of suitable users.
+* **Testing represents the users' perspective.** Testers help ensure that user needs are considered throughout development, especially when it’s not feasible to include real users directly in the process due to the high costs and lack of availability of suitable users.
 
-**4. Testing helps meet contractual, legal, or regulatory requirements.**
+* **Testing helps meet contractual, legal, or regulatory requirements.**
 ### FL-1.2.2 (K1) Recall the relation between testing and quality assurance
 **Testing** is a product-oriented, *corrective* activity that focuses on finding defects and verifying software quality. **Quality Assurance (QA)** is a process-oriented, *preventive* activity that focuses on improving and following development and testing processes. QA applies to both the development and testing processes, and is the responsibility of everyoneon a project. In testing test results are used to fix defects, while in QA to improve processes.
 ### FL-1.2.3 (K2) Distinguish between root cause, error, defect, and failure
