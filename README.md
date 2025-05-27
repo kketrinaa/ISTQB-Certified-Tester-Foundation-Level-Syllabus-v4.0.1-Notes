@@ -84,9 +84,9 @@ In addition to evaluating coverage, good traceability makes it possible to deter
 Traceability ensures transparency, improves control, and supports better decision-making throughout the test process. Traceability provides information to assess product quality, process capability, and project progress against business goals.
 
 ### FL-1.4.5 (K2) Compare the different roles in testing
-_**1.	The test management role**_ takes overall responsibility for the test process, test team and leadership of the test activities. The test management role is mainly focused on the activities of test planning, test monitoring, test control and test completion.
+**1.	The test management role** takes overall responsibility for the test process, test team and leadership of the test activities. The test management role is mainly focused on the activities of test planning, test monitoring, test control and test completion.
 
-_**2.	The testing role**_ takes overall responsibility for the engineering (technical) aspect of testing. The testing role is mainly focused on the activities of test analysis, test design, test implementation and test execution.
+**2.	The testing role** takes overall responsibility for the engineering (technical) aspect of testing. The testing role is mainly focused on the activities of test analysis, test design, test implementation and test execution.
 
 Different people may take on these roles at different times. For example, the test management role can be performed by a team leader, by a test manager, by a development manager, etc. It is also possible for one person to take on the roles of testing and test management at the same time.
 
@@ -111,12 +111,12 @@ The whole team approach improves:
 ### FL-1.5.3 (K2) Distinguish the benefits and drawbacks of independence of testing
 Work products can be tested by their author (no independence), by the author's peers from the same team (some independence), by testers from outside the author's team but within the organization (high independence), or by testers from outside the organization (very high independence).
 
-_**Benefits of independent testing:**_
+**Benefits of independent testing:**
 * Independent testers are more likely to _uncover different defects_ due to their different perspectives and cognitive biases.
 * They can _challenge assumptions_ made during development and _provide an objective view_ of the system.
 * Multiple levels of independence (e.g., developers testing components, testers testing the system) _can improve overall test effectiveness_.
 
-_**Drawbacks of independent testing:**_
+**Drawbacks of independent testing:**
 * Independent testers may become isolated from the development team, reducing collaboration and creating communication issues.
 * It can lead to an adversarial mindset, where developers and testers are seen as being in opposition.
 * Developers might lose a sense of ownership over product quality.
