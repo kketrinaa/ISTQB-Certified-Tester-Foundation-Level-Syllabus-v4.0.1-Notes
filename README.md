@@ -15,7 +15,9 @@ The typical test objectives are:
 * Validating whether the test object is complete and works as expected by the stakeholders
 
 ### FL-1.1.2 (K2) Differentiate testing from debugging
-_**Testing**_ can show failures which are caused by defects in the software. _**Debugging**_ is a defelopment activity which finds, analyses and fixes defects.
+It's important to differentiate **testing** and **debugging.**
+* **Testing** can trigger failures caused by defects (dynamic testing) or directly find defects (static testing).
+* **Debugging** focuses on finding the causes of failures (defects), analyzing them, and fixing them.
 
 ### 1.2 Why is Testing Necessary?
 ### FL-1.2.1 (K2) Exemplify why testing is necessary
