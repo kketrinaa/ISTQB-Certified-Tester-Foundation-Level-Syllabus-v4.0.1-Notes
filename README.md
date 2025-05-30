@@ -24,10 +24,10 @@ It's important to differentiate **testing** and **debugging.**
 Testing is necessary because it's a form of quality control. It helps achieve test objectives within constraints like scope, time, quality, and budget. While the test team performs many testing activities, anyone can use testing skills to help a project succeed. Testing components, systems, and documentation helps identify defects.
 
 Testing contributes to project success in several ways:
-* **Testing helps detect defects early and cost-effectively.** By identifying issues in requirements, design, or code, testing reduces the overall cost of fixing defects and improves the quality of the final product.
-* **Testing provides insight into the quality of the system at different stages of development.** This information supports management decisions, such as whether to proceed to the next phase or to release the product.
-* **Testing represents the users' perspective.** Testers help ensure that user needs are considered throughout development, especially when it’s not feasible to include real users directly in the process due to the high costs and lack of availability of suitable users.
-* **Testing helps meet contractual, legal, or regulatory requirements.**
+* **Cost-effective defect detection:** Testing helps find defects early, which are cheaper to fix than defects found later. This indirectly improves test object quality.
+* **Direct quality evaluation:** Testing directly assesses the quality of a test object at various stages of the SDLC, helping project management make decisions, like releasing the software.
+* **User representation:** Testers ensure that users' needs are considered throughout development, acting as indirect representatives for the user base.
+* **Meeting requirements:** Testing is often needed to meet contractual or legal obligations and comply with regulatory standards.
 
 ### FL-1.2.2 (K1) Recall the relation between testing and quality assurance
 Testing and quality assurance (QA) are often confused but are not the same.
