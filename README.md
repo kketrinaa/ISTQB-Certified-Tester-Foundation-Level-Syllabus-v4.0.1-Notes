@@ -15,38 +15,29 @@ The typical test objectives are:
 * Validating whether the test object is complete and works as expected by the stakeholders
 
 ### FL-1.1.2 (K2) Differentiate testing from debugging
-It's important to differentiate **testing** and **debugging.**
-* **Testing** can trigger failures caused by defects (dynamic testing) or directly find defects (static testing).
-* **Debugging** focuses on finding the causes of failures (defects), analyzing them, and fixing them.
+**Testing** triggers failures which are caused by defects in the software. **Debugging** is a development activity which finds the cause of the failure, analyses and eliminates it.
 
 ### 1.2 Why is Testing Necessary?
 ### FL-1.2.1 (K2) Exemplify why testing is necessary
-Testing is necessary because it's a form of quality control. It helps achieve test objectives within constraints like scope, time, quality, and budget. While the test team performs many testing activities, anyone can use testing skills to help a project succeed. Testing components, systems, and documentation helps identify defects.
 
-Testing contributes to project success in several ways:
-* **Cost-effective defect detection:** Testing helps find defects early, which are cheaper to fix than defects found later. This indirectly improves test object quality.
-* **Direct quality evaluation:** Testing directly assesses the quality of a test object at various stages of the SDLC, helping project management make decisions, like releasing the software.
-* **User representation:** Testers ensure that users' needs are considered throughout development, acting as indirect representatives for the user base.
-* **Meeting requirements:** Testing is often needed to meet contractual or legal obligations and comply with regulatory standards.
+❌
+
 
 ### FL-1.2.2 (K1) Recall the relation between testing and quality assurance
-Testing and quality assurance (QA) are often confused but are not the same.
+QA - process oriented.
+QC - product oriented. 
 
-**Testing** is product-oriented and corrective. It's a major form of quality control, focusing on activities that support achieving quality levels. Other quality control methods include formal methods, simulation, and prototyping.
-
-**QA** is process-oriented and preventive. It focuses on implementing and improving processes based on the idea that a good process produces a good product. QA applies to both development and testing processes and is everyone's responsibility.
-
-Test results are used in both testing (to fix defects) and QA (to provide feedback on process performance).
+**Testing** is a form of quality control, and supports the achievement of quality levels. 
+**Quality assurance** focuses on ensuring that appropriate processes are followed to prevent problems and improve confidence in the quality of the product.
 
 ### FL-1.2.3 (K2) Distinguish between root cause, error, defect, and failure
-* **A root cause** is the fundamental reason a problem (like an error) occurred. Root cause analysis is used to identify these underlying reasons, aiming to prevent similar future errors or defects.
-* **Errors (mistakes)** are made by humans.
-* Errors produce **defects (faults, bugs).** Defects can be in documentation, code, or other work products.
-* Defects, when executed, may result in **failures.** Failures occur when the system doesn't do what it should or does something it shouldn't.
+**Error:** A mistake made by a person
+* **Defect:** A flaw in the system, causing it to fail a required function.
+Failure: System event triggered by a specific defect (not all defects may always cause failure).
+
+* **A root cause** is the reason a problem occurred. Root cause analysis is used to identify these underlying reasons.
 
 Not all defects will cause a failure every time; some only fail in specific circumstances or may never fail. Failures can also be caused by environmental factors, not just defects.
-
-Important Note: Defects found early in the SDLC, if not fixed, can lead to more defective work products later.
 
 ### 1.3 Testing Principles
 ### FL-1.3.1 (K2) Explain the seven testing principles
