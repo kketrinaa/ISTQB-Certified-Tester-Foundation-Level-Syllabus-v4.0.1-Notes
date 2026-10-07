@@ -1,4 +1,4 @@
-# ISTQB Certified Tester Foundation Level Syllabus (v4.0.1) Notes
+# ISTQB Certified Tester Foundation Level Syllabus Notes (v4.0.1)
 
 ## 1. Fundamentals of Testing
 ### 1.1 What is Testing?
