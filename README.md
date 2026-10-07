@@ -24,8 +24,8 @@ The typical test objectives are:
 
 
 ### FL-1.2.2 (K1) Recall the relation between testing and quality assurance
-QA - process oriented.
-QC - product oriented. 
+QA: process oriented.<br>
+QC: product oriented. 
 
 **Testing** is a form of quality control, and supports the achievement of quality levels. 
 **Quality assurance** focuses on ensuring that appropriate processes are followed to prevent problems and improve confidence in the quality of the product.
