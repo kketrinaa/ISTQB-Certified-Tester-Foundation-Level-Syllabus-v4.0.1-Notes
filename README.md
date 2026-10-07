@@ -31,11 +31,10 @@ QC: product oriented.
 **Quality assurance** focuses on ensuring that appropriate processes are followed to prevent problems and improve confidence in the quality of the product.
 
 ### FL-1.2.3 (K2) Distinguish between root cause, error, defect, and failure
-**Error:** A mistake made by a person
-* **Defect:** A flaw in the system, causing it to fail a required function.
-Failure: System event triggered by a specific defect (not all defects may always cause failure).
-
-* **A root cause** is the reason a problem occurred. Root cause analysis is used to identify these underlying reasons.
+* **Error:** a mistake made by a human.
+* **Defect:** 
+* **Failure:** 
+* **A root cause:** the reason a problem occurred. Root cause analysis is used to identify these underlying reasons.
 
 Not all defects will cause a failure every time; some only fail in specific circumstances or may never fail. Failures can also be caused by environmental factors, not just defects.
 
