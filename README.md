@@ -147,6 +147,20 @@ Isolation from the development team can lead to poor collaboration, communicatio
 Developers might lose a sense of responsibility for quality.
 Independent testers can be seen as a bottleneck or blamed for delays.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
 
 ## 2. Testing Throughout the Software Development Lifecycle
