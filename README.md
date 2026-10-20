@@ -96,8 +96,6 @@ Good traceability is valuable because it:
 * Provides information to assess product quality, process capability, and project progress against business goals.
 
 ### FL-1.4.5 (K2) Compare the different roles in testing
-This syllabus covers two main roles in testing: a test management role and a testing role. The tasks assigned to these roles depend on the project context, team skills, and organization.
-
 * **The test management role** has overall responsibility for the test process, team, and leadership. They focus on test planning, monitoring, control, and completion. In Agile, some tasks may be done by the team, while others (spanning multiple teams or the organization) may be done by test managers outside the team.
 * **The testing role** is responsible for the engineering/technical aspects of testing, focusing on test analysis, design, implementation, and execution.
 
