@@ -32,8 +32,8 @@ QC: product oriented.
 
 ### FL-1.2.3 (K2) Distinguish between root cause, error, defect, and failure
 * **Error:** a mistake made by a human.
-* **Defect:** 
-* **Failure:** 
+* **Defect:** A flaw in the system, causing it to fail a required function.
+* **Failure:** System event triggered by a specific defect.
 * **A root cause:** the reason a problem occurred. Root cause analysis is used to identify these underlying reasons.
 
 Not all defects will cause a failure every time; some only fail in specific circumstances or may never fail. Failures can also be caused by environmental factors, not just defects.
@@ -41,11 +41,11 @@ Not all defects will cause a failure every time; some only fail in specific circ
 ### 1.3 Testing Principles
 ### FL-1.3.1 (K2) Explain the seven testing principles
 **1.	Testing shows the presence, not the absence of defects.** <br>
-**2.	Exhaustive testing is impossible** – testing everything in feasible.<br>
-**3.	Early testing saves time and money** – defects that are removed early in the process will not cause subsequent defects in derived work products. The cost of quality will be reduced since fewer failures will occur later in the SDLC.<br>
-**4.	Defects cluster together** – a small number of system components usually contain most of the defects discovered or are responsible for most of the operational failures. This phenomenon is an illustration of the Pareto principle.<br>
+**2.	Exhaustive testing is impossible** – testing everything is not possible.<br>
+**3.	Early testing saves time and money** – shift left.<br>
+**4.	Defects cluster together** – press where it hurts.<br>
 **5.	Tests wear out** – if the same tests are repeated many times, they become increasingly ineffective in detecting new defects. To overcome this effect, existing tests and test data may need to be modified, and new tests may need to be written.<br>
-**6.	Testing is context dependent** – there is no single universally applicable approach to testing. Testing is done differently in different contexts.<br>
+**6.	Testing is context dependent** – know the product.<br>
 **7.	Absence-of-defects fallacy** – thoroughly testing all the specified requirements and fixing all the defects found could still produce a system that does not fulfil the users’ needs and expectations.
 
 ### 1.4 Test Activities, Testware and Test Roles
@@ -83,6 +83,8 @@ Testware refers to the work products created from the test activities. Examples 
 
 ### FL-1.4.4 (K2) Explain the value of maintaining traceability
 To effectively monitor and control testing, it's crucial to maintain traceability between elements in the test basis (e.g., requirements, user stories), associated testware (test conditions, risks, test cases), test results, and defects.
+
+**Traceability:** The degree to which a relationship can be established between two or more work products. Good traceability helps analyse impact of changes, makes testing auditable, and improves understandability of the product.
 
 Good traceability is valuable because it:
 
