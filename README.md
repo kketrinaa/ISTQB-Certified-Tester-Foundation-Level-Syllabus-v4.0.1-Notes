@@ -19,9 +19,7 @@ The typical test objectives are:
 
 ### 1.2 Why is Testing Necessary?
 ### FL-1.2.1 (K2) Exemplify why testing is necessary
-
-❌
-
+Testing, as a form of quality control, helps in achieving the agreed upon test objectives within the set scope, time, quality, and budget constraints. Testing’s contribution to success should not be restricted to the test team activities. Any stakeholder can use their testing skills to bring the project closer to success. Testing components, systems, and associated work products (e.g., documentation) helps to identify defects in software.
 
 ### FL-1.2.2 (K1) Recall the relation between testing and quality assurance
 QA: process oriented.<br>
