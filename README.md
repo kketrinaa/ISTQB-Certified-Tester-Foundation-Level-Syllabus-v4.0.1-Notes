@@ -136,35 +136,37 @@ Developers might lose a sense of responsibility for quality.
 Independent testers can be seen as a bottleneck or blamed for delays.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
 
 ## 2. Testing Throughout the Software Development Lifecycle
 ### 2.1 Testing in the Context of a Software Development Lifecycle
 ### FL-2.1.1 (K2) Explain the impact of the chosen software development lifecycle on testing
+Lifecycle models:
+* Sequential - any new phase begins when previous one is finished. No overlapping, no feedback.
+
+* Iterative and Inceremental - 
+
+* Agile - 
+
 ### FL-2.1.2 (K1) Recall good testing practices that apply to all software development lifecycles
+
 ### FL-2.1.3 (K1) Recall the examples of test-first approaches to development
+
 ### FL-2.1.4 (K2) Summarize how DevOps might have an impact on testing
+
 ### FL-2.1.5 (K2) Explain shift left
+
 ### FL-2.1.6 (K2) Explain how retrospectives can be used as a mechanism for process improvement
+
 <br>
 
 ### 2.2 Test Levels and Test Types
 ### FL-2.2.1 (K2) Distinguish the different test levels
+
 ### FL-2.2.2 (K2) Distinguish the different test types
+
 ### FL-2.2.3 (K2) Distinguish confirmation testing from regression testing
+
 <br>
 
 ### 2.3 Maintenance Testing
